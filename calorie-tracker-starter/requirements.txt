@@ -1,0 +1,7 @@
+streamlit
+psycopg2-binary
+requests
+google-genai
+pillow
+pandas
+plotly
